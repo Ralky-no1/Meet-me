@@ -6,6 +6,16 @@
 - ⚡ Fun fact: I am from Greece :)
 
 <!---
-Ralky-no1/Ralky-no1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Familiar with:
+  turtle
+  tkinter
+  flask
+  gunicorn
+  selenium web browser
+  pandas
+  Bootstrap 4
+  Git
+  Rest
+  Apis
+  SQLite and SQLAlchemy
 --->
